@@ -90,8 +90,8 @@
     border-radius: 16px;
     background-color: #fbfbfb;
     box-shadow: 2px 4px 36px rgba(0, 0, 0, 0.1);
-    /* width: 334px; */
-    width: 296px;
+    width: 334px;
+    /* width: 296px; */
     height: 580px;
     overflow: hidden;
 }
@@ -135,8 +135,8 @@
 
     border-radius: 12px;
     background-color: #3291e9;
-    /* width: 264px; */
-    width: 240px;
+    width: 264px;
+    /* width: 240px; */
     height: 50px;
     padding: 10px;
     overflow: hidden;

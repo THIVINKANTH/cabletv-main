@@ -108,9 +108,8 @@
     overflow: hidden;
 }
 #text{
-    font-size: 56px;
+    font-size: 50px;
     letter-spacing: 0.01em;
-    line-height: 88px;
     font-weight: 600;
     font-family: Poppins;
     color: #4d4d4d;
@@ -119,7 +118,6 @@
 #month{
     font-size: 20px;
     letter-spacing: 0.01em;
-    line-height: 30px;
     font-weight: 500;
     font-family: Poppins;
     color: #8b8b8b;
